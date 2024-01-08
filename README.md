@@ -4,19 +4,19 @@
 
 ```bash
 .
-├── app.js
-├── compose.yaml
-├── Dockerfile
+├── public
+│   ├── images
+│   │   └── logo.png
+│   ├── 404.html
+│   ├── about.html
+│   └── index.html
 ├── .dockerignore
 ├── .env
 ├── .gitignore
-├── package.json
+├── Dockerfile
+├── README.md
+├── app.js
+├── compose.yaml
 ├── package-lock.json
-├── public
-│   ├── 404.html
-│   ├── about.html
-│   ├── images
-│   │   └── logo.png
-│   └── index.html
-└── README.md
+└── package.json
 ```
