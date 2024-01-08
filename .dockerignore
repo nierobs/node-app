@@ -1,5 +1,6 @@
 .git/
 scripts/
+.env
 .gitignore
 Dockerfile
 README.md
