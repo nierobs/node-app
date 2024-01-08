@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      NODE_ENV: ${NODE_ENV}
+      APP_HOST: ${APP_HOST}
+      APP_PORT: ${APP_PORT}
+    ports:
+      - "8080:8080"
