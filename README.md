@@ -1,7 +1,7 @@
 # A simple Node.js web application
 
 Robson Niemeyer  
-[https://github.com/nierobs/express-postgres](https://github.com/nierobs/express-postgres)
+[https://github.com/nierobs/node-app](https://github.com/nierobs/node-app)
 
 ## Directory structure
 
