@@ -1,6 +1,7 @@
 {
   "name": "node-app",
   "version": "1.0.0",
+  "author": "Robson Niemeyer <nierobs@hotmail.com> (https://github.com/nierobs)",
   "scripts": {
     "start": "node app.js"
   }
