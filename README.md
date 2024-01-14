@@ -6,9 +6,9 @@
 ## Directory structure
 
 ```bash
-./
-├── public/
-│   ├── images/
+.
+├── public
+│   ├── images
 │   │   └── logo.png
 │   ├── 404.html
 │   ├── about.html
